@@ -21,13 +21,20 @@
   },
   "publish": {
     "current": {
-      "comment": "Add missing PIO files for the PICO-W build",
-      "version": "1.4.1",
-      "date": "Fri Feb 24 19:37:54 2023",
-      "timestamp": 1677267474,
+      "comment": "remove absolute paths from the auto generated config header file includes",
+      "version": "1.4.2",
+      "date": "Thu Jan 11 23:30:49 2024",
+      "timestamp": 1705015849,
       "changes": null
     },
     "history": [
+      {
+        "comment": "Add missing PIO files for the PICO-W build",
+        "version": "1.4.1",
+        "date": "Fri Feb 24 19:37:54 2023",
+        "timestamp": 1677267474,
+        "changes": null
+      },
       {
         "comment": "Initial Outcast2 package version",
         "version": "1.4.0",
